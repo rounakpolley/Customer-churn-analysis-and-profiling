@@ -1,4 +1,4 @@
-# Customer-churn-analysis-and-profiling
+### Customer-churn-analysis-and-profiling
 Final year project
 
 Dataset description
@@ -20,9 +20,9 @@ where only churn entries        -> df1_churn.pkl     | df2_churn.pkl
 
 where only non churn entiries   -> df1_not_churn.pkl | df2_not_churn.pkl 
 
+====================================================================================================
 
-
-For customer profiles :-
+### For customer profiles :-
 
 1. Segment Customers [Unsupervised ML] using whole (excluding the churn column) as well as parts of dataset
 
@@ -38,7 +38,17 @@ For customer profiles :-
 
 7. Compare the profiles obtained on the datasets using various algorithms however each result is separate and we can only selected the best out of them and not combine them to arrive at a middle ground!
 
+ ==========================================================================================================
 
+### Dimentionality reduction for Unsupervised learning :- 
+
+1. PCA
+
+2. Linear discriminant analysis
+
+3. Non-negative Matrix Factorization
+
+4. Generalized discriminant analysis and many more. 
  
 
  
