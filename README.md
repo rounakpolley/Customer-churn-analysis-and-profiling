@@ -1,5 +1,11 @@
 ### Customer-churn-analysis-and-profiling
-Final year project
+Accuracy = TP+TN/TP+FP+FN+TN
+
+Precision = TP/TP+FP
+
+Recall = TP/TP+FN
+
+F1 Score = 2*(Recall * Precision) / (Recall + Precision)
 
 Dataset description
 ==========================
